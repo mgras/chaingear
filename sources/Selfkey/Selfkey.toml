@@ -15,15 +15,15 @@ consensus_name = "Ethereum"
 [descriptions]
 state = "Project"
 system_type = "cryptoasset"
-headline = "Self-Sovereign Identity to instantly buy Residency "
+headline = "Self-Sovereign Identity to instantly access Citizenship by Investment, Company Incorporation, Bank accounts, Exchanges, Token Sales, and much more "
 
 [crowdsales]
-start_date = "2017-12-01T00:00:00"
-end_date = "2017-12-15T11:59:00"
+start_date = "2017-12-15T00:00:00"
+end_date = "2017-12-24T11:59:00"
 end_date_plan = "2017-12-15T11:59:00"
 genesis_address = [""]
-funding_terms = "https://token.selfkey.org/"
-funding_url = "https://token.selfkey.org/"
+funding_terms = "https://selfkey.org/"
+funding_url = "https://selfkey.org/"
 tokens_sold = ""
 tokens_issued = ""
 btc_raised = ""
@@ -52,7 +52,7 @@ tags = ["Main", "Code"]
 [[links]]
 type = "blog"
 name = "Selfkey Blog"
-url = "https://medium.com/selfkey"
+url = "https://blog.selfkey.org"
 icon = "medium.png"
 tags = ["Main", "News"]
 
